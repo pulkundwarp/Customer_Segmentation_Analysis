@@ -68,11 +68,11 @@ A) <b>New vs Old Customers Age Distribution</b><br>
   <table>
   <tr>
     <td><b>Old Customers by Age Distribution</b></td>
-    <td><img src = "Images/Old Customers - Age Distribution.png" height="703" width="860" align="middle"></td>
+    <td><img src = "Images/Old Customers - Age Distribution.png" height="469" width="575" align="middle"></td>
   </tr>
   <tr>
     <td><b>New Customers by Age Distribution</b></td>
-    <td><img src = "Images/New Customers - Age Distribution.png" height="400" align="middle"></td>
+    <td><img src = "Images/New Customers - Age Distribution.png" height="469" width="575" align="middle"></td>
   </tr>
   </table>
   
@@ -94,8 +94,8 @@ C) <b>New vs Old Customers Job Industry Distribution</b><br>
     <td><b>New Customers by Job Industry</b></td>
   </tr>
   <tr>
-    <td><img src = "Images/Old Customers - Job Industry.png" height="400" align="middle"></td>
-    <td><img src = "Images/New Customers - Job Industry.png" height="400" align="middle"></td>
+    <td><img src = "Images/Old Customers - Job Industry.png" height="469" width="575" align="middle"></td>
+    <td><img src = "Images/New Customers - Job Industry.png" height="469" width="575" align="middle"></td>
   </tr>
   </table>
 
