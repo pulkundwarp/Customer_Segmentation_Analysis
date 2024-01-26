@@ -71,8 +71,8 @@ A) <b>New vs Old Customers Age Distribution</b><br>
     <td><b>New Customers by Age Distribution</b></td>
   </tr>
   <tr>
-    <td><img src="data%20visualization/Old%20Customers%20Age%20Distribution.PNG" height="400" align="middle"></td>
-    <td><img src="data%20visualization/New%20Customers%20Age%20Distribution.PNG" height="400" align="middle"></td>
+    <td><img src="data%20visualization/Old%20Customers%20-%20Age%20Distribution.png" height="400" align="middle"></td>
+    <td><img src="data%20visualization/New%20Customers%20-%20Age%20Distribution.png" height="400" align="middle"></td>
   </tr>
   </table>
   
