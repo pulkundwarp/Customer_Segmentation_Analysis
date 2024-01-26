@@ -111,7 +111,7 @@ D) <b>Wealth Segmentation by Age Category</b><br>
     <td><b>New Customers Wealth by Age Group</b></td>
   </tr>
   <tr>
-    <td><img src = "Images/Old Customer - Wealth Segmentation.png" height="400" align="middle"></td>
+    <td><img src = "Images/Old Customers - Wealth Segmentation.png" height="400" align="middle"></td>
     <td><img src = "Images/New Customer - Wealth Segmentation.png" height="400" align="middle"></td>
   </tr>
   </table>
