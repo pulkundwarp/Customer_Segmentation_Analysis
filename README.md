@@ -91,11 +91,11 @@ C) <b>New vs Old Customers Job Industry Distribution</b><br>
   <table>
   <tr>
     <td><b>Old Customers by Job Industry</b></td>
-    <td><img src = "Images/Old Customers - Job Industry.png" height="469" width="826" align="middle"></td>
+    <td><img src = "Images/Old Customers - Job Industry.png" height="469" width="830" align="middle"></td>
   </tr>
   <tr>
     <td><b>New Customers by Job Industry</b></td>
-    <td><img src = "Images/New Customers - Job Industry.png" height="469" width="826" align="middle"></td>
+    <td><img src = "Images/New Customers - Job Industry.png" height="469" width="830" align="middle"></td>
   </tr>
   </table>
 
@@ -108,11 +108,11 @@ D) <b>Wealth Segmentation by Age Category</b><br>
   <table>
   <tr>
     <td><b>Old Customers Wealth by Age Group</b></td>
-    <td><img src = "Images/Old Customers - Wealth Segmentation.png" height="469" width="826" align="middle"></td>
+    <td><img src = "Images/Old Customers - Wealth Segmentation.png" height="469" width="830" align="middle"></td>
   </tr>
   <tr>
     <td><b>New Customers Wealth by Age Group</b></td>
-    <td><img src = "Images/New Customer - Wealth Segmentation.png" height="469" width="826" align="middle"></td>
+    <td><img src = "Images/New Customer - Wealth Segmentation.png" height="469" width="830" align="middle"></td>
   </tr>
   </table>
 
