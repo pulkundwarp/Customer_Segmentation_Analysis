@@ -68,10 +68,10 @@ A) <b>New vs Old Customers Age Distribution</b><br>
   <table>
   <tr>
     <td><b>Old Customers by Age Distribution</b></td>
-    <td><b>New Customers by Age Distribution</b></td>
+    <td><img src = "Images/Old Customers - Age Distribution.png" height="703" width="860" align="middle"></td>
   </tr>
   <tr>
-    <td><img src = "Images/Old Customers - Age Distribution.png" height="400" align="middle"></td>
+    <td><b>New Customers by Age Distribution</b></td>
     <td><img src = "Images/New Customers - Age Distribution.png" height="400" align="middle"></td>
   </tr>
   </table>
