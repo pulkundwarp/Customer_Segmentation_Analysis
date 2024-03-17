@@ -158,7 +158,7 @@ The visualization shows that customers belonging to Platinum/ Very Loyal/ Becomi
 
 
 ## TABLEAU DASHBOARD
-** To Be Update **
+<img src = "Images/Dashboard.png" height="400" align="middle"><br>
 
 
 ## TOOLS AND TECHNOLOGIES USED
